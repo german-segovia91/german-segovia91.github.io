@@ -31,12 +31,11 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 #EXTINF:-1 tvg-name="América Ⓨ" tvg-logo="https://i.imgur.com/Jt7dOQm.png" tvg-id="AmericaTV.ar" group-title="Argentina",América Ⓨ
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
-#EXTINF:-1 tvg-name="América 2 Ⓨ" tvg-logo="https://i.imgur.com/Jt7dOQm.png" tvg-id="AmericaTV2.ar" group-title="Argentina",América 2Ⓨ
-#EXTVLCOPT:http-user-agent=iPhone
-https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
-#EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" group-title="Argentina",A24 Ⓨ
+##EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" group-title="Argentina",A24 Ⓨ
 
 #EXTINF:-1 tvg-id="TNNOTICIAS.ar" tvg-name="Canal TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title="Argentina", Canal TN | AR
 
-#EXTINF:-1 tvg-id="TNNOTICIAS.ar" tvg-name="Canal TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title="Argentina", Canal TN | AR
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-name="Canal Anime" tvg-logo="https://i.imgur.com/fDlkOBx.png" group-title="Argentina", Anime Zone TV | AR
+http://azxtv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="4esquel.ar" tvg-name="Canal 4 Esquel" tvg-logo="http://www.canal9comodoro.com/images/logo.png" group-title="Nacional",Canal 4 Esquel | AR
+http://azxtv.com/hls/stream.m3u8
