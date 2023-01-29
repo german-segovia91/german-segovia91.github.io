@@ -30,7 +30,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-name="El Nueve" tvg-logo="https://i.imgur.com/EtcVSm4.png" tvg-id="ElNueve.ar" group-title="Argentina",El Nueve
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 #EXTINF:-1 tvg-name="América Ⓨ" tvg-logo="https://i.imgur.com/Jt7dOQm.png" tvg-id="AmericaTV.ar" group-title="Argentina",América Ⓨ
-https://nginxg.pages.dev/jwm3u?get=aHR0cHM6Ly9kYWkuZ29vZ2xlLmNvbS9saW5lYXIvaGxzL2V2ZW50L09ZMmlfbEw0U015WEU1WmFqNFVMRWcvbWFzdGVyLm0zdTg=
+https://nginxg.pages.dev/jwm3u?get=aHR0cHM6Ly9kYWkuZ29vZ2xlLmNvbS9saW5lYXIvaGxzL2V2ZW50L09ZMmlfbEw0U015WEU1WmFqNFVMRWcvbWFzdGVyLm0zdTg=.m3u8
 ##EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" group-title="Argentina",A24 Ⓨ
 #EXTVLCOPT:http-user-agent=iPhone
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
