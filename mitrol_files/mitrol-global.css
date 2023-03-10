@@ -1,18 +1,18 @@
 @font-face {
   font-family: 'Public Sans';
   font-weight: 400;
-  src: url('../fonts/Public_Sans/PublicSans-VariableFont_wght.ttf');
+  src: url('../mitrol_files/fonts/Public_Sans/PublicSans-VariableFont_wght.ttf');
 }
 
 @font-face {
   font-family: 'Public Sans Semibold';
   font-weight: 600;
-  src: url('../fonts/Public_Sans/PublicSans-VariableFont_wght.ttf');
+  src: url('../mitrol_files/fonts/Public_Sans/PublicSans-VariableFont_wght.ttf');
 }
 
 @font-face {
   font-family: 'Public Sans Italic';
-  src: url('../fonts/Public_Sans/PublicSans-Italic-VariableFont_wght.ttf');
+  src: url('../mitrol_files/fonts/Public_Sans/PublicSans-Italic-VariableFont_wght.ttf');
 }
 
 :root {

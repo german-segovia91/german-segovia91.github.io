@@ -1,5 +1,5 @@
 .login-pf body {
-    background: linear-gradient(rgba(232,232,232,.7), rgba(177,177,177,.7)), url("../img/background_login_desktop.jpg");
+    background: linear-gradient(rgba(232,232,232,.7), rgba(177,177,177,.7)), url("../mitrol_files/img/background_login_desktop.jpg");
     background-size: cover;
     height: 100%;
 }
@@ -10,7 +10,8 @@
 }
 
 .login-pf-page {
-	padding-top: 2%;
+	padding-top: 10%;
+	
 }
 
 .login-pf-page #kc-header.login-pf-page-header #kc-header-wrapper {
@@ -23,6 +24,12 @@
 	text-align: center;
 	text-transform: uppercase;
 	font-size: .7em;
+}
+.mitrol-login-realm-error {
+	color:rgba(0, 0, 0, 0.514);
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
 }
 
 .login-pf-page > div.card-pf {
@@ -57,3 +64,4 @@
 .form-control:focus {
     box-shadow: none;
 }
+
