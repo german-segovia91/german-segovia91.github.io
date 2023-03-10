@@ -1,0 +1,60 @@
+@font-face {
+  font-family: 'Public Sans';
+  font-weight: 400;
+  src: url('../fonts/Public_Sans/PublicSans-VariableFont_wght.ttf');
+}
+
+@font-face {
+  font-family: 'Public Sans Semibold';
+  font-weight: 600;
+  src: url('../fonts/Public_Sans/PublicSans-VariableFont_wght.ttf');
+}
+
+@font-face {
+  font-family: 'Public Sans Italic';
+  src: url('../fonts/Public_Sans/PublicSans-Italic-VariableFont_wght.ttf');
+}
+
+:root {
+	/*colors*/	
+	--dark-blue-color: #082146;
+	--skyblue-color: #0074b5;
+	--dark-purple-color: #3c4175;
+	--dark-gray-color: #4d4d4d;
+	--black-color: #232323;
+	--light-gray-color: #e5e5e5;
+	--red-color: #d1131a;
+
+	--sidebar-active-item-bg-color: #BB544D;
+	/*fonts*/
+	--default-font: 'Public Sans';
+	--button-font: 'Public Sans Semibold';
+	--box-input-label-font: Public Sans Medium;
+	--input-placeholder-font: Public Sans Light Italic;
+
+	--sidebar-default-font: 'Public Sans';
+	--sidebar-default-active-font: 'Public Sans Semibold';
+	/* fonts-size*/
+	--default-font-sz: 13px;
+	--default-nav-font-sz: 14px;
+}
+
+body {
+	font-family: var( --default-font );
+	font-size: var( --default-font-sz );
+}
+
+button {
+	border-radius: 5px;
+	font-family: var( --button-font );
+}
+
+button[type='submit'] {
+	border-radius: 5px;
+	padding: 5px 14px;
+}
+
+.sidebar-pf-left {
+	font-family: var( --sidebar-default-font ) !important;
+}
+

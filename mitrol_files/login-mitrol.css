@@ -1,0 +1,59 @@
+.login-pf body {
+    background: linear-gradient(rgba(232,232,232,.7), rgba(177,177,177,.7)), url("../img/background_login_desktop.jpg");
+    background-size: cover;
+    height: 100%;
+}
+
+.login-pf {
+	height: 100%;
+	background: 0%;
+}
+
+.login-pf-page {
+	padding-top: 2%;
+}
+
+.login-pf-page #kc-header.login-pf-page-header #kc-header-wrapper {
+	color: var( --red-color );
+}
+
+.mitrol-login-realm-name {
+	color: var( --red-color );
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: .7em;
+}
+
+.login-pf-page > div.card-pf {
+	max-width: 400px;
+}
+
+#kc-form-buttons input[type='submit'] {
+    background-image: none;
+	background-color: var( --red-color ) !important;
+	color: #FFFFFF;
+	border: none;
+	border-radius: 0;
+	border-width: 0;
+	padding: 20px;
+}
+
+#kc-form-buttons > #kc-login:hover {
+    background-color: #D4272E !important;
+}
+
+.form-group input {
+	border-width: 0 0 1px 0;
+    border-radius: 0;
+    background-color: white;
+    box-shadow: 0 0 0 0;
+}
+
+.form-control:hover {
+    border-color: var( --red-color );
+}
+
+.form-control:focus {
+    box-shadow: none;
+}
